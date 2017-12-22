@@ -1,2 +1,2 @@
 # Game-2D-Qt-
-jeux 2D programmé à base C++ 
+to play use Q : go left D : go right Mouse Left Click : save drownings
